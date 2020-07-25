@@ -1,4 +1,4 @@
-# HijriCalendar : Arduino  library class for converting Gregorian date to Hijri date and vice versa
+# HijriCalendar : Arduino  library  for converting Gregorian date to Hijri date and vice versa
 
 ## Library setup
 
